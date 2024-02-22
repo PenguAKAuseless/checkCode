@@ -9,8 +9,7 @@
 + Chạy file checkCode.cpp bên ngoài
 
 # COMMON FAQ:
-+ Nếu gặp bug vui lòng tự debug, cái tool này chỉ sinh testcase ngẫu nhiên
-+ Nếu bạn để ý trong task 2 có các trường hợp mà code sẽ chạy vô hạn lần, khi đó Terminal sẽ bị đơ vui lòng hủy lượt chạy Terminal đó và roll testcase khác (game nhân phẩm cả thôi)
++ Bị bug thì 70% code bạn nhập sai, 30% còn lại thì ko biết =))
 
 # Lưu ý
   Nhớ đừng lấy code trong file ra nộp, hoặc là tự chịu hậu quả.
