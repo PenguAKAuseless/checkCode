@@ -2,6 +2,7 @@
   Để sử dụng cái tool này:
 + Tải về 
 + Mở bằng VSCode (hiện không rõ nó có chạy ổn định trên VSCode MACos và các ứng dụng khác không)
++ Mở đám file này vào một workspace mới
 + Thêm code bản thân vào file yourAnswer.cpp trong thư mục yourAnswer
 + Chạy file checkCode.cpp bên ngoài
 
