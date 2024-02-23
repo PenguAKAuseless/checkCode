@@ -131,8 +131,8 @@ int traceLuggage(int & hp1, int & exp1, int & m1, int e2)
     //Road 2
     if (e2 % 2)
     {
-        int fund = std::ceil(float(m1*0.5)), spent = 0, event = 2;
-        while (spent < fund)
+        int spent = 0, event = 2;
+        while (spent <= fund)
         {
             switch (event = ++event % 3)
             {
